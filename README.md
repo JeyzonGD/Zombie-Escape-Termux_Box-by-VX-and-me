@@ -4,17 +4,17 @@ Free mod for cs 1
 
 | What's New ? |
 
-- Astra Guillotineex Will Adding In Diamond Menu !
+- Astra Guillotineex For All Players !
 
-- Guillotine Will Adding In Knife Menu !
+- Guillotine Soon !
 
 - New Class Zombies !
 
 - New Extra Items CSO !
 
-- New Gamemodes ( Tyrant & Sniper ) !
-
-- New Knife Menu !
+- Knife menu Soon
 
 I will modify some plugins and add more cool plugins
 Link : Soon
+
+if u want sma contact VX for buy
