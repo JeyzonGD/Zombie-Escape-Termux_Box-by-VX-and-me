@@ -6,13 +6,11 @@ Free mod for cs 1
 
 - Astra Guillotineex For All Players !
 
-- Guillotine Soon !
+- Guillotine Added !
 
-- New Class Zombies !
+- New Extra Item cyclone !
 
-- New Extra Items CSO !
-
-- Knife menu Soon
+- Knife menu Added
 
 I will modify some plugins and add more cool plugins
 Link : Soon
