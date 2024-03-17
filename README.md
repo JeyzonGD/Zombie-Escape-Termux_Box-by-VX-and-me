@@ -4,9 +4,7 @@ Free mod for cs 1.6 Summer Update
 
 | What's New ? |
 
-- Astra Guillotineex For All Players !
-
-- Guillotine Added !
+- Astra Guillotineex Model changed !
 
 - New Extra Item sftornado and i think starchaserar!!
 
