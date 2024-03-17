@@ -1,5 +1,5 @@
 # Zombie-Escape-Termux_Box-by-VX-and-me
-Free mod for cs 1
+Free mod for cs 1.6 Summer Update
 - Zombie Escape New -
 
 | What's New ? |
@@ -8,11 +8,10 @@ Free mod for cs 1
 
 - Guillotine Added !
 
-- New Extra Item cyclone !
+- New Extra Item sftornado and i think starchaserar!!
 
-- Knife menu Added
 
 I will modify some plugins and add more cool plugins
-Link : Soon
+Link : In my birthday
 
 if u want sma contact VX for buy
